@@ -1,9 +1,6 @@
-
-  <h1>Privacy Policy for ChatGPT Edits</h1>
+ <h1>Privacy Policy for ChatGPT Edits</h1>
   <p><strong>Effective Date:</strong> [August 14 2025]</p>
-
-  <p><em>ChatGPT Edits</em> we operates an AI-powered photo editing service accessible through TikTok Mini Apps and other platforms. This Privacy Policy explains how we collect, use, and protect your information.</p>
-
+<p><em>ChatGPT Edits</em> we operates an AI-powered photo editing service accessible through TikTok Mini Apps and other platforms. This Privacy Policy explains how we collect, use, and protect your information.</p>
   <h2>1. Information We Collect</h2>
   <ul>
     <li><strong>Images</strong> you upload for editing.</li>
