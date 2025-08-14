@@ -2,7 +2,7 @@
   <h1>Privacy Policy for ChatGPT Edits</h1>
   <p><strong>Effective Date:</strong> [August 14 2025]</p>
 
-  <p><em>ChatGPT Edits</em> (“we,” “our,” or “us”) operates an AI-powered photo editing service accessible through TikTok Mini Apps and other platforms. This Privacy Policy explains how we collect, use, and protect your information.</p>
+  <p><em>ChatGPT Edits</em> we operates an AI-powered photo editing service accessible through TikTok Mini Apps and other platforms. This Privacy Policy explains how we collect, use, and protect your information.</p>
 
   <h2>1. Information We Collect</h2>
   <ul>
@@ -45,5 +45,7 @@
 
   <h2>8. Contact Us</h2>
   <p>If you have questions, contact us at: <a href="mailto:melvinkwehjr016@gmail.com">melvinkwehjr016@gmail.com</a></p>
+  <h2>8. WhatsApp contact</h2>
+  <p>If you have questions, contact us at: <a href= "messageto:+231888444292">+231888444292</a></p>
 </body>
 </html>
