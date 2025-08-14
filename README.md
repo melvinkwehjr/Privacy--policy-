@@ -47,5 +47,4 @@
   <p>If you have questions, contact us at: <a href="mailto:melvinkwehjr016@gmail.com">melvinkwehjr016@gmail.com</a></p>
   <h2>8. WhatsApp contact</h2>
   <p>If you have questions, contact us at: <a href= "messageto:+231888444292">+231888444292</a></p>
-</body>
-</html>
+
